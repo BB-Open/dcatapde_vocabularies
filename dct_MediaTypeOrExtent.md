@@ -18,5 +18,6 @@ What we learned:
 * There are more data formats than the IANA list covers. E.g. INSPIRE
 
 We will screen grab the IANA list and publish a SKOS file [here](.iana_codes.skos).
+This file will be acompanied by an additional file containing mediaTypes not found in the IANA specification.
 
 The MDR authority file can be found here http://publications.europa.eu/mdr/resource/authority/file-type/skos/filetypes-skos.rdf

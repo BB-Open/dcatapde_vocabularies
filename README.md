@@ -7,7 +7,7 @@ DCAT-AP.de features the following entities with controlled vocabularies:
 * [dct:MediaTypeOrExtent](./dct_MediaTypeOrExtent.md)
 * dct:Standard
 * [dct:RightsStatement](./dct_RightsStatement.md)
-* dct:LinguisticSystem
+* [dct:LinguisticSystem](./dct_LinguisticSystem.md)
 * skos:Concept
 * skos:ConceptSchema
 * dcat:ContributorID
