@@ -2,7 +2,7 @@
 
 Is used as dct:format and dct:mediaType of dcat:Distribution
 
-No Controlled vocabulary on [dcat-ap.de](http://www.dcat-ap.de/def) available
+**No Controlled vocabulary on [dcat-ap.de](http://www.dcat-ap.de/def) available**
 
 There is an interesting discussion on dct:format vs. dct:MediaType in DCAT-AP:
 https://joinup.ec.europa.eu/discussion/pr22-remove-dcatmediatype-and-only-use-dctformat
