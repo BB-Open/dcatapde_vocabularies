@@ -4,9 +4,9 @@ Links to/and controlled vaocabularies for DCAT-AP.de
 DCAT-AP.de features the following entities with controlled vocabularies:
 
 * [dct:LicenseDocument](./dct_LicenseDocument.md)
-* [dct:MediaTypeOrExtent](./dct_MEdaiTypeOrExtent.md)
+* [dct:MediaTypeOrExtent](./dct_MediaTypeOrExtent.md)
 * dct:Standard
-* dct:RightsStatement
+* [dct:RightsStatement](./dct_RightsStatement.md)
 * dct:LinguisticSystem
 * skos:Concept
 * skos:ConceptSchema
