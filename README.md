@@ -1,5 +1,7 @@
 # dcatapde.vocabularies
 
+This is work in progress.
+
 DCAT-AP.de is the new German metadata standard. A standard needs authority to be imposed. The authority of the DCAT-Ap.de standard is GOVDATA aka http://dcat-ap.de.
 
 http://dcat-ap.de is maintained by the goverment which has a different perspective than the implementers of the standard.
