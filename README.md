@@ -19,8 +19,8 @@ DCAT-AP.de features the following entities with controlled vocabularies:
 * dct:Standard
 * [dct:RightsStatement](./dct_RightsStatement.md)
 * [dct:LinguisticSystem](./dct_LinguisticSystem.md)
-* skos:Concept
-* skos:ConceptSchema
+* [skos:Concept](./dct_skosConcept.md)
+* [skos:ConceptSchema](./dct_skosConceptSchema.md)
 * dcat:ContributorID
 * dcatde:politicalGeocodingURI
 * dcatde:politicalGeocodingLevelURI
